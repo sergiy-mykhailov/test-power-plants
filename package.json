@@ -1,0 +1,15 @@
+{
+  "name": "test-power-plants",
+  "version": "0.0.1",
+  "description": "test task Power Plants",
+  "main": "src/World.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
